@@ -9,7 +9,7 @@ made by zixcore on discord!
 
 <div align="center">
 
-![div](https://i.imgur.com/hqhlLkg.png)
+![div][https://i.imgur.com/hqhlLkg.png](https://files.catbox.moe/vixi4d.png)](https://i.pinimg.com/1200x/58/d6/2d/58d62d361fde82a38574600ede6cdf14.jpg)
 
 ![main](https://i.imgur.com/XWclMdE.png)
 
