@@ -1,16 +1,28 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Livi's Jax Page</title>
+</head>
 
-<!--
-**No1JaxKisser/No1JaxKisser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<body>
 
-Here are some ideas to get you started:
+    <h1>Welcome to my page!</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <p>Hi! I'm Livi :3</p>
+
+    <h2>About Me</h2>
+
+    <p>I like Jax and a bunch of other silly things.</p>
+
+    <h2>My Links</h2>
+
+    <p>Here are some places you can find me:</p>
+
+    <ul>
+        <li><a href="https://discord.com">Discord</a></li>
+        <li><a href="#">Pronouns.cc</a></li>
+        <li><a href="#">StrawPage</a></li>
+    </ul>
+
+</body>
+</html>
